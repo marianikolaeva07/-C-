@@ -1,0 +1,16 @@
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Мои документы\Информатика ЛР\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\Программы\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
