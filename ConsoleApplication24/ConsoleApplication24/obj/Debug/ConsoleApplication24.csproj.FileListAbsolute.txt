@@ -1,0 +1,14 @@
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.csproj.AssemblyReference.cache
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.csproj.SuggestedBindingRedirects.cache
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.csproj.CoreCompileInputs.cache
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+D:\ОАИП\Программы\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb

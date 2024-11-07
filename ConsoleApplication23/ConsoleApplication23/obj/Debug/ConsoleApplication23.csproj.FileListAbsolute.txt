@@ -1,0 +1,6 @@
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb

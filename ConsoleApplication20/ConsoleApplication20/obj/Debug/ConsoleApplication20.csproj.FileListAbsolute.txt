@@ -1,0 +1,5 @@
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
