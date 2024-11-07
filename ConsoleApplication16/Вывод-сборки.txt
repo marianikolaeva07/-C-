@@ -1,0 +1,3 @@
+﻿1>------ Сборка начата: проект: ConsoleApplication16, Конфигурация: Debug Any CPU ------
+1>  ConsoleApplication16 -> H:\Мои документы\Информатика ЛР\ОАИП\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
